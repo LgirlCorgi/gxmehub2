@@ -7,6 +7,7 @@ Created by the awesome Gxme Hub development team.
 <a href="https://repl.it/github/xlegends/gxmehub"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 <a href="https://glitch.com/edit/#!/import/github/xlegends/gxmehub"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fxlegends%2Fgxmehub)
+Depoly on Netifty=https://app.netlify.com/start/deploy?repository=https://github.com/Tra8nDepolys/gxmehub2
 
 ## To Do List -
 
